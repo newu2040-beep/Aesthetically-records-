@@ -1,0 +1,7 @@
+{
+  "name": "Aesthetically",
+  "description": "Voice-to-Aesthetic Recording App: Record your voice. Get art. Share a feeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
